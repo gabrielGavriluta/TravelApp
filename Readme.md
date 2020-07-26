@@ -1,4 +1,4 @@
-********TravelApp*********
+		TravelApp
 You can:
 	- log in with your Google account
 	- add trip with description and location(redirect to Google Maps)

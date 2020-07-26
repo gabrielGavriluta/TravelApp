@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="login_text">Login with Google Account:</string>
+    <string name="web_client_id">232818676896-l7l3i3j3df98opkohfcp20iov1kh14sr.apps.googleusercontent.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_trips">My Trips</string>
+    <string name="discover_trips">Discover Trips</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="enter_location">Enter location</string>
+    <string name="enter_description">Enter description</string>
+</resources>
